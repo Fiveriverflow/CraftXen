@@ -1,0 +1,5 @@
+name: CraftXen
+main: CraftXen
+version: 1.0
+commands:
+      post:
