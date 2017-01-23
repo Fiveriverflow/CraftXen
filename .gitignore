@@ -1,4 +1,5 @@
-.idea/  
+.idea/
+config.json
 *.class
 # BlueJ files
 *.ctxt
